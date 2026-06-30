@@ -141,27 +141,18 @@ Jawab pertanyaan kandidat secara profesional:
 Jika ditanya tentang posisi, perusahaan, atau ekspektasi, berikan jawaban yang jelas dan relevan.
 Jika ragu, arahkan kandidat ke HR untuk detail lebih lanjut.
 
-AKHIRI WAWANCARA:
-Setelah semua pertanyaan selesai dijawab, ucapkan:
-"Terima kasih banyak atas waktu dan jawabannya. Wawancara ini sudah selesai. Sampai jumpa!"
-Setelah mengucapkan kalimat penutup tersebut, DIAM dan jangan berbicara lagi.
+Akhiri wawancara dengan baik:
+Ucapkan terima kasih kepada kandidat atas waktunya.
+Sampaikan bahwa perusahaan akan segera menghubungi dengan feedback.
+Tutup percakapan dengan nada yang sopan dan positif.
+
 
 - Pastikan bersikap profesional dan sopan.
 - Jaga semua respons tetap pendek dan sederhana. Gunakan bahasa resmi, tapi tetap ramah dan bersahabat.
-- Ini adalah percakapan suara, jadi jaga respons tetap singkat, seperti percakapan sungguhan. Jangan bicara terlalu panjang.
-- Setelah semua pertanyaan terjawab, AKHIRI wawancara dengan kalimat penutup di atas, lalu DIAM.`,
+- Ini adalah percakapan suara, jadi jaga respons tetap singkat, seperti percakapan sungguhan. Jangan bicara terlalu panjang.`,
       },
     ],
   },
-  endCallPhrases: [
-    "sampai jumpa",
-    "terima kasih",
-    "selesai",
-    "cukup",
-    "sudah selesai",
-    "wawancara selesai",
-  ],
-  silenceTimeoutSeconds: 10,
 };
 
 export const feedbackSchema = z.object({
